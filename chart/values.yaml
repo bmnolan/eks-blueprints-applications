@@ -87,7 +87,7 @@ grafana:
 
 # Karpenter Values
 karpenter:
-  enable: false
+  enable: true
   serviceAccountName:
   controllerClusterEndpoint:
   awsDefaultInstanceProfile:
