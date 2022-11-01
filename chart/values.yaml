@@ -1,7 +1,7 @@
 # Global Values
-repoUrl: 'https://github.com/aws-samples/eks-blueprints-add-ons.git'
+repoUrl: 'https://github.com/bmnolan/eks-blueprints-applications.git'
 targetRevision: HEAD
-region: ''
+region: 'us-east-2'
 account: ''
 clusterName: ''
 
