@@ -171,7 +171,7 @@ promtail:
 
 # kubecost Values
 kubecost:
-  enable: false
+  enable: true
 
 # SMB CSI Driver Values
 smbCsiDriver:
@@ -191,7 +191,7 @@ reloader:
 
 # Kube Prometheus Stack
 kubePrometheusStack:
-  enable: true
+  enable: false
 
 # Kyverno Values
 kyverno:
