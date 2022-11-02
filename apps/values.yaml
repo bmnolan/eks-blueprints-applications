@@ -1,0 +1,4 @@
+# Global Values
+repoUrl: 'https://github.com/bmnolan/eks-blueprints-applications.git'
+targetRevision: HEAD
+region: 'us-east-2'
