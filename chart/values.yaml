@@ -87,9 +87,9 @@ grafana:
 
 # Karpenter Values
 karpenter:
-  enable: true
+  enable: false
   serviceAccountName:
-  controllerClusterEndpoint:
+  controllerClusterEndpoint: 
   awsDefaultInstanceProfile:
 
 # Keda Values
