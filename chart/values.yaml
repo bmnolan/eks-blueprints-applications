@@ -171,7 +171,7 @@ promtail:
 
 # kubecost Values
 kubecost:
-  enable: true
+  enable: false
 
 # SMB CSI Driver Values
 smbCsiDriver:
