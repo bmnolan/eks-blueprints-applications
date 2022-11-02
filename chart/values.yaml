@@ -145,7 +145,7 @@ traefik:
 
 # VPA Values
 vpa:
-  enable: false
+  enable: true
 
 # Yunikorn Values
 yunikorn:
