@@ -68,7 +68,7 @@ externalDns:
 
 # External Secrets Operator
 externalSecrets:
-  enable: false
+  enable: true
 
 # Gatekeeper Values
 gatekeeper:
@@ -122,7 +122,7 @@ ondat:
 
 # Prometheus Values
 prometheus:
-  enable: true
+  enable: false
   serviceAccountName:
   roleArn:
   ampWorkspaceUrl:
@@ -145,7 +145,7 @@ traefik:
 
 # VPA Values
 vpa:
-  enable: false
+  enable: true
 
 # Yunikorn Values
 yunikorn:
