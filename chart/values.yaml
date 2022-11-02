@@ -42,7 +42,7 @@ awsLoadBalancerController:
 
 # AWS Otel Collector Values
 awsOtelCollector:
-  enable: true
+  enable: false
   otlpEndpoint:
   resourceAttributes:
 
