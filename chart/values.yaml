@@ -122,7 +122,7 @@ ondat:
 
 # Prometheus Values
 prometheus:
-  enable: false
+  enable: true
   serviceAccountName:
   roleArn:
   ampWorkspaceUrl:
@@ -145,7 +145,7 @@ traefik:
 
 # VPA Values
 vpa:
-  enable: true
+  enable: false
 
 # Yunikorn Values
 yunikorn:
@@ -171,7 +171,7 @@ promtail:
 
 # kubecost Values
 kubecost:
-  enable: false
+  enable: true
 
 # SMB CSI Driver Values
 smbCsiDriver:
