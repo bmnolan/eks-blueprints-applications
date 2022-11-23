@@ -10,12 +10,12 @@ agones:
   enable: false
 
 # App Mesh Values
-appMesh:
+appMesh:k get
   enable: false
 
 # Calico Values
 calico:
-  enable: true
+  enable: false
 
 # AWS CloudWatch Metrics Values
 awsCloudWatchMetrics:
